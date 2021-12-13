@@ -10,6 +10,7 @@ import "tui-image-editor/dist/tui-image-editor.css";
 import "tui-color-picker/dist/tui-color-picker.css";
 const ImageEditor = require("tui-image-editor");
 const localeZh = {
+  // ceshiquanxianxiugai 
     // override default English locale to your custom
     Crop: '裁剪',
     ZoomIn: '放大',
