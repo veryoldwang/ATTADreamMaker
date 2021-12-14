@@ -83,7 +83,7 @@ const localeZh = {
     // etc...
   }
   const customTheme = {
-    // image 左上角度图片
+    // image 左上角度图片 测试数据
     'common.bi.image': 'https://www.bazhuayu.io/mobile/tc/images/Brand.png', // 在这里换上你喜欢的logo图片
     'common.bisize.width': '150px',
     'common.bisize.height': '50px',
